@@ -94,6 +94,13 @@ The platform's capability extends beyond fence detection, enhancing its value fo
 - **Backend Engineer & UX/UI Designer :Surjith S Shetty**
 - **Content Creator & Communications Lead : Ananya Pramod Kulkarni**
 
+
+## Previous work 
+![Alt text](./1.jpg)
+![Alt text](./2.jpg)
+![Alt text](./3.jpg)
+
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
