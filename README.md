@@ -100,10 +100,12 @@ The platform's capability extends beyond fence detection, enhancing its value fo
 ![Alt text](./2.jpg)
 ![Alt text](./3.jpg)
 
-
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
+You are free to use, share, and adapt this project for **non-commercial purposes only**, including educational use.  
+Commercial use is **not allowed** without prior permission.
+
 
 ## References
 
