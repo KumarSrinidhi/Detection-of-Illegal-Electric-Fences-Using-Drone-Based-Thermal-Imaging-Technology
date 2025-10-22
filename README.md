@@ -91,12 +91,13 @@ The platform's capability extends beyond fence detection, enhancing its value fo
 
 ## 3D Model Reference
 
-To better visualize the deployment setup and system configuration, refer to the 3D model pics of the drone and sensor payload system:
 
-![Alt text](./1.jpg)
-![Alt text](./2.jpg)
-![Alt text](./2.jpg)
-![Alt text](./2.jpg)
+To better visualize the deployment setup and system configuration, refer to the 3D model pics of the drone and sensor payload system:
+![Alt text](Models pics/1.png)
+![Alt text](Models pics/2.png)
+![Alt text](Models pics/4.png)
+![Alt text](Models pics/5.png)
+![Alt text](Models pics/6.png)
 
 
 ---
@@ -114,11 +115,11 @@ To better visualize the deployment setup and system configuration, refer to the 
 ---
 
 ## Previous work 
-![Alt text](./Models pics/1.png)
-![Alt text](./Models pics/2.png)
-![Alt text](./Models pics/4.png)
-![Alt text](./Models pics/5.png)
-![Alt text](./Models pics/6.png)
+
+![Alt text](./1.jpg)
+![Alt text](./2.jpg)
+![Alt text](./2.jpg)
+![Alt text](./2.jpg)
 
 ---
 
